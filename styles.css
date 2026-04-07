@@ -1,0 +1,13 @@
+.btn-filtro.activo {
+  background-color: #007bff;
+  color: white;
+}
+
+.oculta {
+  display: none;
+}
+
+.mensaje-vacio {
+  text-align: center;
+  color: gray;
+}
